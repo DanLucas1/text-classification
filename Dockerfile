@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+#note
 FROM ubuntu:20.04
 WORKDIR /app
 ENV DEBIAN_FRONTEND=noninteractive
